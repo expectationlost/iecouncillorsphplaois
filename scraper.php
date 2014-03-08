@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 
 $council = "Laois county Council";
 $uri = "http://www.laois.ie/YourCouncil/AbouttheCouncil/Councillors/";
